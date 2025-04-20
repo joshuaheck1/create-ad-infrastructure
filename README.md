@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating Active Directory Infastructure in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the creation of an Active Directory infastructure within Azure. We will use this build to deploy and configure Active Directory in some other projects later. <br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -15,15 +15,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Operating Systems Used </h2>
 
+- MacOS
 - Windows Server 2022
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Setup the Domain Controller
+- Step 2: Setup Client-1
+- Step 3: Join Domain
+- Step 4: Test Connection
 
 <h2>Deployment and Configuration Steps</h2>
 
