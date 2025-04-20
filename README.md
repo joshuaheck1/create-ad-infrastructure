@@ -2,7 +2,7 @@
 <img width="555" alt="ADS1" src="https://github.com/user-attachments/assets/7839cc71-a1a2-4420-9956-c4e1ccede7ca" />
 </p>
 
-<h1>Configuring Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Creating Active Directory Infastructure in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
