@@ -1,6 +1,13 @@
-<p align="center">
-<img width="555" alt="ADS1" src="https://github.com/user-attachments/assets/7839cc71-a1a2-4420-9956-c4e1ccede7ca" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="ADS1" src="https://github.com/user-attachments/assets/6764e034-271e-4809-8e91-bb25dba7ba17" />
+    </td>
+    <td>
+      <img width="1000" alt="ADS2" src="https://github.com/user-attachments/assets/2dfb8569-f306-4f94-a01a-6790869d3475" />
+    </td>
+  </tr>
+</table>
 
 <h1>Creating Active Directory Infastructure in the Cloud (Azure)</h1>
 This tutorial outlines the creation of an Active Directory infastructure within Azure. We will use this build to deploy and configure Active Directory in some other projects later. <br />
