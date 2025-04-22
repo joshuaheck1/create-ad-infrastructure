@@ -46,10 +46,13 @@ This tutorial outlines the creation of an Active Directory infastructure within 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="800" alt="AD8" src="https://github.com/user-attachments/assets/77d02814-7bb0-4f8e-a1f9-1ee2e5598dfc" />
+
+
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- From Virtual machines, click on DC-1 and select Network settings. Then, click on Network interface / IP configuration as shown in Figure 2.
 </p>
 <br />
 
