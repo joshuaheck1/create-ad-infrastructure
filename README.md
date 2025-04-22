@@ -12,6 +12,10 @@
 <h1>Creating Active Directory Infastructure in the Cloud (Azure)</h1>
 This tutorial outlines the creation of an Active Directory infastructure within Azure. We will use this build to deploy and configure Active Directory in some other projects later. <br />
 
+<h2>List of Prerequisites</h2>
+
+- [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
+  (Reference this project for help creating Virtual Manchines if needed.)
 
 <h2>Environments and Technologies Used</h2>
 
