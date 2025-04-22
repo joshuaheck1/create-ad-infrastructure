@@ -26,12 +26,6 @@ This tutorial outlines the creation of an Active Directory infastructure within 
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1: Setup the Domain Controller
-- Step 2: Setup Client-1
-- Step 3: Join Domain
-- Step 4: Test Connection
 
 <h2>Deployment and Configuration Steps</h2>
 
