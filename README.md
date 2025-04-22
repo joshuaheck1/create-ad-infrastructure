@@ -9,8 +9,8 @@
   </tr>
 </table>
 
-<h1>Creating Active Directory Infastructure in the Cloud (Azure)</h1>
-This tutorial outlines the creation of an Active Directory infastructure within Azure. We will use this build to deploy and configure Active Directory in a future project. <br />
+<h1>Creating Active Directory Infrastructure in the Cloud (Azure)</h1>
+This tutorial outlines the creation of an Active Directory infrastructure within Azure. We will use this build to deploy and configure Active Directory in a future project. <br />
 
 <h2>List of Prerequisites</h2>
 
@@ -151,6 +151,6 @@ This tutorial outlines the creation of an Active Directory infastructure within 
 <h2>Summary</h2>
 
 <p>
-This concludes our project. We have successfully built the infrastucture we need for Active Directory in Azure. We will use this build to complete a few more AD projects. Next, we will deploy Active Directory. Isn't Cloud Computing cool? As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
+This concludes our project. We have successfully built the infrastructure we need for Active Directory in Azure. We will use this build to complete a few more AD projects. Next, we will deploy Active Directory. Isn't Cloud Computing cool? As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
 </p>
 <br />
