@@ -147,3 +147,10 @@ This tutorial outlines the creation of an Active Directory infastructure within 
 - Now for our final act of the eveving, we will make sure the DNS Server of Client-1 is set to DC-1's Private IP address. In PowerShell use the command ipconfig /all and press enter. 🪄 Abracadabra and there it is folks! 
 </p>
 <br />
+
+<h2>Summary</h2>
+
+<p>
+This concludes our project. We have successfully built the infrastucture we need for Active Directory in Azure. We will use this build to complete a few more AD projects. Next, we will deploy Active Directory. Isn't Cloud Computing cool? As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
+</p>
+<br />
