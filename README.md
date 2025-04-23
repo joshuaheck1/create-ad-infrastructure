@@ -47,8 +47,6 @@ This tutorial outlines the creation of an Active Directory infrastructure within
 
 <p>
 <img width="800" alt="AD8" src="https://github.com/user-attachments/assets/77d02814-7bb0-4f8e-a1f9-1ee2e5598dfc" />
-
-
 </p>
 
 <p>
