@@ -149,6 +149,6 @@ This tutorial outlines the creation of an Active Directory infrastructure within
 <h2>Summary</h2>
 
 <p>
-This concludes our project. We have successfully built the infrastructure we need for Active Directory in Azure. We will use this build to complete a few more AD projects. Next, we will deploy Active Directory. Isn't Cloud Computing cool? As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
+This concludes our project. We have successfully built the infrastructure we need for Active Directory in Azure. We will use this build to complete a few more AD projects. Next, we will deploy Active Directory. Isn't Cloud Computing cool? Don't forget to Stop (turn off) the VMs in Azure. As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
 </p>
 <br />
