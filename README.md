@@ -15,7 +15,7 @@ This tutorial outlines the creation of an Active Directory infrastructure within
 <h2>Prerequisite</h2>
 
 - [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
-  (Reference this project for help creating Virtual Manchines if needed.)
+<p>(Reference this project for help creating Virtual Manchines if needed.)</p>
 
 <h2>Environments and Technologies Used</h2>
 
