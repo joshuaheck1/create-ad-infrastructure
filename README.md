@@ -31,7 +31,7 @@ This tutorial outlines the creation of an Active Directory infrastructure within
 - Windows 10 (21H2)
 
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>⚙️ Deployment and Configuration Steps</h2>
 
 <p>
 <img width="800" alt="AD7" src="https://github.com/user-attachments/assets/3324e347-dda1-4ace-bb71-5417daaa7673" />
