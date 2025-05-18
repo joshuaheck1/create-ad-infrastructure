@@ -12,19 +12,19 @@
 <h1>Creating Active Directory Infrastructure in the Cloud (Azure)</h1>
 This tutorial outlines the creation of an Active Directory infrastructure within Azure. We will use this build to deploy and configure Active Directory in a future project. <br />
 
-<h2>Prerequisite</h2>
+<h2>⚠️ Prerequisite</h2>
 
 - [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
 <p>(Reference this project for help creating Virtual Manchines if needed.)</p>
 
-<h2>Environments and Technologies Used</h2>
+<h2>💻 Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
 
-<h2>Operating Systems Used </h2>
+<h2>👨‍💻 Operating Systems Used </h2>
 
 - macOS Sequoia
 - Windows Server 2022
@@ -146,7 +146,7 @@ This tutorial outlines the creation of an Active Directory infrastructure within
 </p>
 <br />
 
-<h2>Conclusion</h2>
+<h2>✅ Conclusion</h2>
 
 <p>
 This concludes our project. We have successfully built the infrastructure we need for Active Directory in Azure. We will use this build to complete a few more AD projects. Next, we will deploy Active Directory. Isn't Cloud Computing cool? Don't forget to Stop (turn off) the VMs in Azure. As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
